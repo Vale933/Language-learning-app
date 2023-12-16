@@ -1,0 +1,32 @@
+[
+    {
+        "word": "hello",
+        "translation": "hola",
+        "partOfSpeech": "interjection",
+        "level": "A1 1"
+    },
+    {
+        "word": "apple",
+        "translation": "manzana",
+        "partOfSpeech": "noun",
+        "level": "A1 2"
+    },
+    {
+        "word": "beautiful",
+        "translation": "hermoso",
+        "partOfSpeech": "adjective",
+        "level": "A2 1"
+    },
+    {
+        "word": "to understand",
+        "translation": "entender",
+        "partOfSpeech": "verb",
+        "level": "A2 2"
+    },
+    {
+        "word": "philosophy",
+        "translation": "filosofía",
+        "partOfSpeech": "noun",
+        "level": "B1 1"
+    },
+]
