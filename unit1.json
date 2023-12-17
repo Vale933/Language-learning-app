@@ -1,32 +1,242 @@
 [
     {
-        "word": "hello",
-        "translation": "hola",
-        "partOfSpeech": "interjection",
-        "level": "A1 1"
-    },
-    {
-        "word": "apple",
-        "translation": "manzana",
-        "partOfSpeech": "noun",
-        "level": "A1 2"
-    },
-    {
-        "word": "beautiful",
-        "translation": "hermoso",
+        "word": "ambivalent",
+        "translation": "ambivalent",
         "partOfSpeech": "adjective",
-        "level": "A2 1"
+        "level": "C1"
     },
     {
-        "word": "to understand",
-        "translation": "entender",
-        "partOfSpeech": "verb",
-        "level": "A2 2"
-    },
-    {
-        "word": "philosophy",
-        "translation": "filosofía",
+        "word": "conundrum",
+        "translation": "Rätsel",
         "partOfSpeech": "noun",
-        "level": "B1 1"
+        "level": "C1"
     },
+    {
+        "word": "meticulous",
+        "translation": "sorgfältig",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "nostalgia",
+        "translation": "Nostalgie",
+        "partOfSpeech": "noun",
+        "level": "C1"
+    },
+    {
+        "word": "pragmatic",
+        "translation": "pragmatisch",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "stoic",
+        "translation": "stoisch",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "vindicate",
+        "translation": "rechtfertigen",
+        "partOfSpeech": "verb",
+        "level": "C1"
+    },
+    {
+        "word": "whimsical",
+        "translation": "launisch",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "zealot",
+        "translation": "Eiferer",
+        "partOfSpeech": "noun",
+        "level": "C1"
+    },
+    {
+        "word": "benevolent",
+        "translation": "wohlwollend",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "disseminate",
+        "translation": "verbreiten",
+        "partOfSpeech": "verb",
+        "level": "C1"
+    },
+    {
+        "word": "exacerbate",
+        "translation": "verschlimmern",
+        "partOfSpeech": "verb",
+        "level": "C1"
+    },
+    {
+        "word": "innuendo",
+        "translation": "Anspielung",
+        "partOfSpeech": "noun",
+        "level": "C1"
+    },
+    {
+        "word": "moratorium",
+        "translation": "Moratorium",
+        "partOfSpeech": "noun",
+        "level": "C1"
+    },
+    {
+        "word": "paradigm",
+        "translation": "Paradigma",
+        "partOfSpeech": "noun",
+        "level": "C1"
+    },
+    {
+        "word": "redundant",
+        "translation": "überflüssig",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "surreal",
+        "translation": "surreal",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "tumultuous",
+        "translation": "tumultartig",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "venerable",
+        "translation": "ehrwürdig",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+    {
+        "word": "wistful",
+        "translation": "wehmütig",
+        "partOfSpeech": "adjective",
+        "level": "C1"
+    },
+        {
+        "word": "serendipity",
+        "translation": "Glücksfund",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "ubiquitous",
+        "translation": "allgegenwärtig",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    },
+    {
+        "word": "quintessential",
+        "translation": "quintessenz",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    },
+    {
+        "word": "juxtapose",
+        "translation": "gegenüberstellen",
+        "partOfSpeech": "verb",
+        "level": "C2"
+    },
+    {
+        "word": "ephemeral",
+        "translation": "flüchtig",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    },
+    {
+        "word": "idiosyncrasy",
+        "translation": "Eigenart",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "lucid",
+        "translation": "luzid",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    },
+    {
+        "word": "obfuscate",
+        "translation": "verwirren",
+        "partOfSpeech": "verb",
+        "level": "C2"
+    },
+    {
+        "word": "vicissitude",
+        "translation": "Wechselfall",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "zephyr",
+        "translation": "Zephir",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "panacea",
+        "translation": "Allheilmittel",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "ephemeral",
+        "translation": "flüchtig",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    },
+    {
+        "word": "surreptitious",
+        "translation": "heimlich",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    },
+    {
+        "word": "acquiesce",
+        "translation": "einwilligen",
+        "partOfSpeech": "verb",
+        "level": "C2"
+    },
+    {
+        "word": "anachronism",
+        "translation": "Anachronismus",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "circumlocution",
+        "translation": "Umschreibung",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "proliferate",
+        "translation": "vermehren",
+        "partOfSpeech": "verb",
+        "level": "C2"
+    },
+    {
+        "word": "untenable",
+        "translation": "unhaltbar",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    },
+    {
+        "word": "verisimilitude",
+        "translation": "Wahrscheinlichkeit",
+        "partOfSpeech": "noun",
+        "level": "C2"
+    },
+    {
+        "word": "mellifluous",
+        "translation": "wohlklingend",
+        "partOfSpeech": "adjective",
+        "level": "C2"
+    }
 ]
