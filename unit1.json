@@ -238,5 +238,196 @@
         "translation": "wohlklingend",
         "partOfSpeech": "adjective",
         "level": "C2"
+    },    {
+        "word": "Тёмная",
+        "translation": "dunkle",
+        "partOfSpeech": "adjective",
+        "level": "A2"
+    },
+    {
+        "word": "ночь",
+        "translation": "Nacht",
+        "partOfSpeech": "noun",
+        "level": "A1"
+    },
+    {
+        "word": "пули",
+        "translation": "Kugeln",
+        "partOfSpeech": "noun",
+        "level": "B1"
+    },
+    {
+        "word": "свистят",
+        "translation": "pfeifen",
+        "partOfSpeech": "verb",
+        "level": "B2"
+    },
+    {
+        "word": "ветер",
+        "translation": "Wind",
+        "partOfSpeech": "noun",
+        "level": "A2"
+    },
+    {
+        "word": "гудит",
+        "translation": "summt",
+        "partOfSpeech": "verb",
+        "level": "B1"
+    },
+    {
+        "word": "звёзды",
+        "translation": "Sterne",
+        "partOfSpeech": "noun",
+        "level": "A1"
+    },
+    {
+        "word": "мерцают",
+        "translation": "flimmern",
+        "partOfSpeech": "verb",
+        "level": "B2"
+    },
+    {
+        "word": "любимая",
+        "translation": "Geliebte",
+        "partOfSpeech": "noun",
+        "level": "B1"
+    },
+    {
+        "word": "знаю",
+        "translation": "ich weiß",
+        "partOfSpeech": "verb",
+        "level": "A2"
+    },
+    {
+        "word": "спишь",
+        "translation": "schläfst",
+        "partOfSpeech": "verb",
+        "level": "A2"
+    },
+    {
+        "word": "слезу",
+        "translation": "Träne",
+        "partOfSpeech": "noun",
+        "level": "B1"
+    },
+    {
+        "word": "утираешь",
+        "translation": "wischst ab",
+        "partOfSpeech": "verb",
+        "level": "B2"
+    },
+    {
+        "word": "глубину",
+        "translation": "Tiefe",
+        "partOfSpeech": "noun",
+        "level": "B1"
+    },
+    {
+        "word": "ласковых",
+        "translation": "zärtliche",
+        "partOfSpeech": "adjective",
+        "level": "B2"
+    },
+    {
+        "word": "глаз",
+        "translation": "Augen",
+        "partOfSpeech": "noun",
+        "level": "A1"
+    },
+    {
+        "word": "хочу",
+        "translation": "ich möchte",
+        "partOfSpeech": "verb",
+        "level": "A2"
+    },
+    {
+        "word": "разделяет",
+        "translation": "trennt",
+        "partOfSpeech": "verb",
+        "level": "B1"
+    },
+    {
+        "word": "степь",
+        "translation": "Steppe",
+        "partOfSpeech": "noun",
+        "level": "B1"
+    },
+    {
+        "word": "дорогую",
+        "translation": "teure",
+        "partOfSpeech": "adjective",
+        "level": "B1"
+    },
+    {
+        "word": "подругу",
+        "translation": "Freundin",
+        "partOfSpeech": "noun",
+        "level": "B1"
+    },
+    {
+        "word": "вера",
+        "translation": "Glaube",
+        "partOfSpeech": "noun",
+        "level": "B2"
+    },
+    {
+        "word": "радостно",
+        "translation": "freudig",
+        "partOfSpeech": "adverb",
+        "level": "B2"
+    },
+    {
+        "word": "спокоен",
+        "translation": "ruhig",
+        "partOfSpeech": "adjective",
+        "level": "B1"
+    },
+    {
+        "word": "встретишь",
+        "translation": "wirst treffen",
+        "partOfSpeech": "verb",
+        "level": "B2"
+    },
+    {
+        "word": "любовью",
+        "translation": "mit Liebe",
+        "partOfSpeech": "noun",
+        "level": "A2"
+    },
+    {
+        "word": "смерть",
+        "translation": "Tod",
+        "partOfSpeech": "noun",
+        "level": "A2"
+    },
+    {
+        "word": "нестрашна",
+        "translation": "nicht furchteinflößend",
+        "partOfSpeech": "adjective",
+        "level": "B2"
+    },
+    {
+        "word": "встречались",
+        "translation": "trafen sich",
+        "partOfSpeech": "verb",
+        "level": "B1"
+    },
+    {
+        "word": "надо",
+        "translation": "muss",
+        "partOfSpeech": "verb",
+        "level": "A2"
+    },
+    {
+        "word": "кружится",
+        "translation": "kreist",
+        "partOfSpeech": "verb",
+        "level": "B1"
+    },
+    {
+        "word": "ждёшь",
+        "translation": "wartest",
+        "partOfSpeech": "verb",
+        "level": "A2"
     }
 ]
